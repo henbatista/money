@@ -21,24 +21,8 @@
       "price": 32000,
       "category": "test",
       "type": "income",
-      "createdAt": "2022-09-14T12:04:24.616Z",
+      "createAt": "2022-09-14T12:04:24.616Z",
       "id": 3
-    },
-    {
-      "description": "Test",
-      "price": 32000,
-      "category": "test",
-      "type": "outcome",
-      "createdAt": "2022-09-14T12:28:04.317Z",
-      "id": 4
-    },
-    {
-      "description": "Test",
-      "price": 55,
-      "category": "test",
-      "type": "outcome",
-      "createdAt": "2022-09-15T01:27:48.145Z",
-      "id": 5
     }
   ]
 }
