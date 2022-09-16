@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2022-09-15T01:27:48.145Z",
       "id": 5
+    },
+    {
+      "description": "Test",
+      "price": 55,
+      "category": "test",
+      "type": "income",
+      "createdAt": "2022-09-16T00:29:30.407Z",
+      "id": 6
     }
   ]
 }
