@@ -26,8 +26,9 @@ export function NewTransactionModal() {
   const createTransaction = useContextSelector(
     TransactionsContext,
     (context) => {
-      return context.createTransaction;
-    })
+      return context.createTransaction
+    },
+  )
 
   const {
     control,
